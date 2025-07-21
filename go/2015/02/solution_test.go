@@ -1,4 +1,4 @@
-package solution_2015
+package solutions_2015_02
 
 import "testing"
 
